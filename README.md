@@ -1,5 +1,9 @@
 # Galaga Repair Lab
 
+**Python · Pygame · debugging coursework**
+
+A coursework repository based on a Galaga-lite starter game. The original exercise instructions are retained below; task descriptions and checkboxes describe the assignment and do not certify completion.
+
 This project is a single-file Galaga-lite clone using **Pygame**. It introduces students to Bézier-curve motion, wave-based enemy spawning, and projectile collision using a small, readable object-oriented codebase.
 
 ---
@@ -86,6 +90,6 @@ galaga/
 
 Submission is only the following three things:
 
-- [] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
-- [] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
-- [] The Chat/LLM used page link, with the complete chat history
+- [ ] A 10-second video of gameplay **before** your changes, showing the bug/broken behavior
+- [ ] A 10-second video of gameplay **after** your changes, showing the bug fixed and the new features working
+- [ ] The Chat/LLM used page link, with the complete chat history
